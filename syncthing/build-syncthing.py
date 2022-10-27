@@ -18,7 +18,7 @@ BUILD_TARGETS = [
         'arch': 'arm',
         'goarch': 'arm',
         'jni_dir': 'armeabi',
-        'cc': 'armv7a-linux-androideabi16-clang',
+        'cc': 'armv7a-linux-androideabi19-clang',
     },
     {
         'arch': 'arm64',
@@ -31,7 +31,7 @@ BUILD_TARGETS = [
         'arch': 'x86',
         'goarch': '386',
         'jni_dir': 'x86',
-        'cc': 'i686-linux-android16-clang',
+        'cc': 'i686-linux-android19-clang',
     },
     {
         'arch': 'x86_64',
